@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://i.chzbgr.com/full/8186432000/h9FFF6395/);
+    /*if gif is too annoying just switch w this:)*/
+    /*background-color: blue;*/
+}
+
+
+#wholeThang{
+    position: relative;
+    text-align: center;
+    color: aqua;
+}
+#stuff{
+    color: red;
+}
+
